@@ -1,4 +1,4 @@
-# LogitAvg
+# Logit Averaging
 
 This is the code for ISIS 2021 Paper **Logit Averaging: Captureing Global Relation for Session-based Recommendation**. 
 
